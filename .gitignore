@@ -1,0 +1,13 @@
+**/.dart_tool/
+**/.packages
+**/.pub/
+*/build/
+*/*/build/
+**/pubspec.lock
+/.idea/
+
+package/inject/android/
+package/inject/ios/
+package/inject_generator/android/
+package/inject_generator/ios/
+
